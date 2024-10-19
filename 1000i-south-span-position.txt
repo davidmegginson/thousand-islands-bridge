@@ -15,7 +15,7 @@ $ fgfs --aircraft=ufo --lat=44.295803 --lon=-75.987402 --altitude=670.24 --headi
 
 
 ------------------------ Selected Object -------------------------
-Path:         /home/david/Models/thousand-islands-bridge/thousand-islands-bridge-main-span.ac
+Path:         /home/david/Models/thousand-islands-bridge/1000i-south-span.ac
 Latitude:     44.30176064 deg
 Longitude:    -75.98205378 deg
 Altitude ASL: 84.9653 m (278.7577 ft)
@@ -26,7 +26,7 @@ Roll:        -0.0 deg
 ------------------------------------------------------------------
 
 # Lines for stg
-OBJECT_SHARED /home/david/Models/thousand-islands-bridge/thousand-islands-bridge-main-span.ac -75.98205378 44.30176064 84.9653 41.0 0.0 -0.0
+OBJECT_SHARED /home/david/Models/thousand-islands-bridge/1000i-south-span.ac -75.98205378 44.30176064 84.9653 41.0 0.0 -0.0
 
 # Lines for upload form
-OBJECT_SHARED /home/david/Models/thousand-islands-bridge/thousand-islands-bridge-main-span.ac -75.98205378 44.30176064 84.9653 41.0 0.1 0.0 -0.0
+OBJECT_SHARED /home/david/Models/thousand-islands-bridge/1000i-south-span.ac -75.98205378 44.30176064 84.9653 41.0 0.1 0.0 -0.0
