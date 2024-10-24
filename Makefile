@@ -2,10 +2,10 @@ FG_SCENERY=${HOME}/.local/share/scenery/local-scenery-mods
 
 TARGET_DIR=Objects/w080n40/w076n44/
 
-FILES=1000i-south-span.ac \
-  1000i-south-span.xml \
-  1000i-south-span.png \
-  1000i-south-span2.png
+FILES=1000i-south-span/1000i-south-span.ac \
+  1000i-south-span/1000i-south-span.xml \
+  1000i-south-span/1000i-south-span1.png \
+  1000i-south-span/1000i-south-span2.png
 
 install:
 	cp ${FILES} ${FG_SCENERY}/${TARGET_DIR}
