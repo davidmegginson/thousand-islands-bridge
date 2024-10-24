@@ -11,8 +11,11 @@
       <transparent>true</transparent>
       <texture n="3">
         <image>1000i-south-span2.png</image>
+        <wrap-s>repeat</wrap-s>
       </texture>
     </parameters>
+    <object-name>Deck</object-name>
+    <object-name>Railings</object-name>
     <object-name>Suspension cables</object-name>
     <object-name>Supports</object-name>
   </effect>
