@@ -1,0 +1,32 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     44.36131393 deg
+Longitude:    -75.98155003 deg
+Altitude ASL: 609.6000 m (2000.0000 ft)
+40Heading:      333.4 deg
+Ground Elev:  88.2160 m (289.4226 ft)
+
+# w080n40/w076n44/1712528.stg
+OBJECT_STATIC -75.98155003 44.36131393 88.2160 26.6
+
+http://maps.google.com/maps?ll=44.3613139300,-75.9815500300&z=12&t=h
+$ fgfs --aircraft=ufo --lat=44.361314 --lon=-75.981550 --altitude=2000.00 --heading=270.7
+
+
+------------------------ Selected Object -------------------------
+Path:         /home/david/Models/thousand-islands-bridge/1000i-north-span/1000i-north-span.xml
+Latitude:     44.36311502 deg
+Longitude:    -75.98254716 deg
+Altitude ASL: 81.6529 m (267.8901 ft)
+Heading:      -23.2 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# Lines for stg
+OBJECT_SHARED /home/david/Models/thousand-islands-bridge/1000i-north-span/1000i-north-span.xml -75.98254716 44.36311502 81.6529 23.2 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED /home/david/Models/thousand-islands-bridge/1000i-north-span/1000i-north-span.xml -75.98254716 44.36311502 81.6529 23.2 -0.0 0.0 -0.0
