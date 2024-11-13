@@ -12,7 +12,8 @@ DRIVE_HDG=180
 TARGET_DIR=Objects/w080n40/w076n44/
 
 FILES=1000i-north-span.ac \
-  1000i-north-span.xml
+  1000i-north-span.xml \
+  1000i-north-span1.png
 
 install:
 	cp ${FILES} ${FG_SCENERY}/${TARGET_DIR}
