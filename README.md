@@ -4,6 +4,8 @@ This is a Public Domain, low-polygon model of the Thousand Islands Bridge across
 
 ![Screenshot of the south span](1000i-south-span/screenshot.png)
 
+Closest airport: [Maxson Airfield](https://ourairports.com/airports/89NY/) (89NY).
+
 
 ## Changes
 
