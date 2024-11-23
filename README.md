@@ -1,6 +1,8 @@
 Blender model of the Thousand Islands Bridge
 ============================================
-This is a Public Domain, low-polygon model of the Thousand Islands Bridge across the St. Lawrence River, connecting U.S. Interstate 81 to Ontario Highway 401. It is optimised for use in flight simulators, where it will not be viewed close up, but it is possible to simulate driving across the bridge.
+This is a Public Domain, low-polygon model of the Thousand Islands Bridge system across the St. Lawrence River, connecting U.S. Interstate 81 to Ontario Highway 401. It is optimised for use in flight simulators, where it will not be viewed close up, but it is possible to simulate driving across the bridge.
+
+Picture: south (American) span.
 
 ![Screenshot of the south span](1000i-south-span/screenshot.png)
 
